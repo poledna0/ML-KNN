@@ -137,7 +137,7 @@ EX: o recomendar do youtube, ele faz recomendação de vídeos baseado em pessoa
 
 
 
-Referencias para o codigo e resposta das perguntas:
+Referencias para os codigos, respostas e slides:
 https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier 
 https://pt.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-dependent-independent/a/dependent-and-independent-variables-review 
 https://didatica.tech/scikit-learn-na-pratica-codigos-uteis-e-comandos-essenciais/ 
@@ -153,3 +153,5 @@ https://github.com/GustavoAkyama/wine-quality-predict
 https://www.youtube.com/watch?v=FZqMCgCbo3U 
 https://blog.mettzer.com/variaveis-dependentes-e-independentes/ 
 https://www.ibm.com/br-pt/topics/machine-learning
+https://www.sas.com/pt_br/insights/analytics/machine-learning.html
+https://medium.com/data-hackers/principais-m%C3%A9tricas-de-classifica%C3%A7%C3%A3o-de-modelos-em-machine-learning-94eeb4b40ea9
