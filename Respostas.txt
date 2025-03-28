@@ -155,3 +155,4 @@ https://blog.mettzer.com/variaveis-dependentes-e-independentes/
 https://www.ibm.com/br-pt/topics/machine-learning
 https://www.sas.com/pt_br/insights/analytics/machine-learning.html
 https://medium.com/data-hackers/principais-m%C3%A9tricas-de-classifica%C3%A7%C3%A3o-de-modelos-em-machine-learning-94eeb4b40ea9
+https://www.datacamp.com/tutorial/precision-recall-curve-tutorial
